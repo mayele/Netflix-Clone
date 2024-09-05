@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/google-fonts-css2@2.0.0/dist/umd/index.min.js");
+
+:root {
+  background-color: #111;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+}
